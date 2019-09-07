@@ -1,5 +1,5 @@
-# Relatório Início
-## Efeito Magnus no esporte
+## 1. Início
+# Efeito Magnus no esporte
 Integrantes:  
   * Bruno Giuliani Gomes (esh2900) - 17/0030610  
   * Gabriel de Andrade Ribeiro (gabrielaribeiro) - 17/0103366  
@@ -20,6 +20,10 @@ Escopo do experimento:
    
 Avaliação de viabilidade:
    * A proposta do grupo se torna viável partindo do ponto de vista que o objetivo é demonstrar as consequências que a bola sofre com o efeito magnus, possuindo durante os testes uma câmera e um espaço adequado, o efeito magnus torna-se possível de demonstração e observação.
+
+## 2. Planejamento e Preparação
+
+
    
    
 
