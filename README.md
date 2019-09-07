@@ -7,7 +7,7 @@
   
 ### Tema: Efeito Magnus - esporte  
 
-https://s1.static.brasilescola.uol.com.br/img/2018/06/esquema-forca-magnus.jpg
+![Efeito Magnus](esquema-forca-magnus.jpg)
 
 ### Objetivo: 
    * Estudar e demonstrar o efeito magnus nas bolas usadas em diferentes esportes por meio de testes com fluidos e observar suas variações de acordo com cada tipo de material, tamanho e peso.
