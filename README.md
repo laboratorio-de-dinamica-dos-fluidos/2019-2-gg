@@ -14,7 +14,7 @@ Requisitos de solução:
    * Observar a força de arrasto sofrida e sua variação quando comparada com o movimento normal da bola.
    
 Escopo do experimento:
-   * Passo 1: Buscar referências bibliográficas sobre o assunto com o intuito de coletar possíveis soluções para o problema,além de melhores alternativas para executa-lo.
+   * Passo 1: Buscar referências bibliográficas sobre o assunto com o intuito de coletar possíveis soluções para o problema, além de melhores alternativas para executá-lo.
    * Passo 2: Procurar locais adequados e os materiais necessários para a realização do experimento.
    * Passo 3: Realizar o experimento, por meio de vídeos e fotos com o objetivo de demonstrar o efeito.
    
