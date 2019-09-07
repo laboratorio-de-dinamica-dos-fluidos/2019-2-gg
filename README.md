@@ -28,7 +28,7 @@ https://s1.static.brasilescola.uol.com.br/img/2018/06/esquema-forca-magnus.jpg
 ### Tempo estimado:
    * Passo 1: 2 semanas;
    * Passo 2: 1 semana;
-   * Passo 3: 3 semanas. 
+   * Passo 3: 3 semanas.  
    
 ### Divisão de tarefas:
    * Etapa de pesquisas e busca de dados: Bruno, Gabriel e Giovanna.
