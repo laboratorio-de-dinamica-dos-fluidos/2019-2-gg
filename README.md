@@ -7,6 +7,8 @@
   
 ### Tema: Efeito Magnus - esporte  
 
+https://s1.static.brasilescola.uol.com.br/img/2018/06/esquema-forca-magnus.jpg
+
 ### Objetivo: 
    * Estudar e demonstrar o efeito magnus nas bolas usadas em diferentes esportes por meio de testes com fluidos e observar suas variações de acordo com cada tipo de material, tamanho e peso.
 
@@ -26,8 +28,19 @@
 ### Tempo estimado:
    * Passo 1: 2 semanas;
    * Passo 2: 1 semana;
-   * Passo 3: 3 semanas; 
+   * Passo 3: 3 semanas. 
    
-   
+### Divisão de tarefas:
+   * Etapa de pesquisas e busca de dados: Bruno, Gabriel e Giovanna.
+   * Busca dos meios para a execução: Bruno, Gabriel e Giovanna.
+   * Experimento:
+       * Testes com as bolas: Gabriel;
+       * Fotos: Giovanna;
+       * Vídeo e edição: Bruno.
+       
+### Cronograma estimado:
+   * Passo 1: 2 semanas: 09/09 a 20/09;
+   * Passo 2: 1 semana: 23/09 a 27/09;
+   * Passo 3: 3 semanas: 30/09 a 18/10.
 
    
