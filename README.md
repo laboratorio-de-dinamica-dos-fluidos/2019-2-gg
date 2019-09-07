@@ -14,8 +14,9 @@ Requisitos de solução:
    * Observar a força de arrasto sofrida e sua variação quando comparada com o movimento normal da bola.
    
 Escopo do experimento:
-   * De diferentes posições serão testados chutes e arremessos para se observar a variação de movimento e trajetória da bola. Serão feitos testes de forma normal e formas que tentem forçar o efeito magnus.
-   * Com gravações(incluindo câmera lenta) e cálculos tentaremos validar e representar o efeito magnus.
+   * Passo 1: Buscar referências bibliográficas sobre o assunto com o intuito de coletar possíveis soluções para o problema.
+   * Passo 2: Buscar locais adequados e os materiais necessários para a realização do experimento.
+   * Passo 3: Realizar o experimento com as devidas medições com o objetivo de demonstrar o efeito.
    
 Avaliação de viabilidade:
    * A proposta do grupo se torna viável partindo do ponto de vista que o objetivo é demonstrar as consequências que a bola sofre com o efeito magnus, possuindo durante os testes uma câmera e um espaço adequado, o efeito magnus torna-se possível de demonstração e observação.
