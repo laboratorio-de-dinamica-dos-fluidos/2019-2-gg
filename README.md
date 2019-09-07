@@ -1,5 +1,5 @@
-## 1. Início
 # Efeito Magnus no esporte
+## 1. Início
 Integrantes:  
   * Bruno Giuliani Gomes (esh2900) - 17/0030610  
   * Gabriel de Andrade Ribeiro (gabrielaribeiro) - 17/0103366  
