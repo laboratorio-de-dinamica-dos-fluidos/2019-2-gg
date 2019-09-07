@@ -8,7 +8,7 @@
 ### Tema: Efeito Magnus - esporte  
 
 ### Objetivo: 
-* Estudar e demonstrar o efeito magnus nas bolas usadas em diferentes esportes por meio de testes com fluidos e observar suas variações de acordo com cada tipo de material, tamanho e peso.
+   * Estudar e demonstrar o efeito magnus nas bolas usadas em diferentes esportes por meio de testes com fluidos e observar suas variações de acordo com cada tipo de material, tamanho e peso.
 
 ### Requisitos de solução:
    * Observar o efeito magnus gerado em uma bola.
@@ -23,8 +23,10 @@
    * A proposta do grupo se torna viável partindo do ponto de vista que o objetivo é demonstrar as consequências que a bola sofre com o efeito magnus, possuindo durante os testes uma câmera e um espaço adequado, o efeito magnus torna-se possível de demonstração e observação.
 
 ## 2. Planejamento e Preparação
-
-
+### Tempo estimado:
+   * Passo 1: 2 semanas;
+   * Passo 2: 1 semana;
+   * Passo 3: 3 semanas; 
    
    
 
