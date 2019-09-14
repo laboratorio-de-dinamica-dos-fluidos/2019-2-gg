@@ -42,11 +42,15 @@
 ### Cronograma estimado:
    * Passo 1: 2 semanas: 09/09 a 20/09;
    * Passo 2: 1 semana: 23/09 a 27/09;
-   * Passo 3: 3 semanas: 30/09 a 18/10.
-### Dados a serem medidos ou calculados
+   * Passo 3: 3 semanas: 30/09 a 18/10.  
 
-### Resultados Esperados  
-    O resultado que o experimento visa alcançar,é comprovar 
+### Dados a serem medidos ou calculados:
+Como o intuito do experimento não é uma demonstração numérica do efeito,
+e sim uma visualização de sua existência, os dados que levantaremos,serão 
+as imagens da ocorrência do evento.
+
+### Resultados Esperados:
+O resultado que o experimento visa alcançar,é comprovar 
 por meio de filmagens, a influência do efeito Magnus dentro
 de alguns esportes com bola, ao tornar evidente a curva de bolas em rotação
 feitas de diferentes materiais e tamanhos.
