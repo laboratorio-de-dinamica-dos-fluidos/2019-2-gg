@@ -15,7 +15,6 @@
 ### Requisitos de solução:
    * Observar o efeito magnus gerado em uma bola.
    * Observar a força de arrasto sofrida e sua variação quando comparada com o movimento normal da bola.
-   * Mostrar como os tópicos acima afetam o esporte.
    
 ### Escopo do experimento:
    * Passo 1: Buscar referências bibliográficas sobre o assunto com o intuito de coletar possíveis soluções para o problema, além de melhores alternativas para executá-lo.
