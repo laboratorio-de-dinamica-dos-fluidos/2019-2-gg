@@ -53,3 +53,14 @@ O resultado que o experimento visa alcançar,é comprovar
 por meio de filmagens, a influência do efeito Magnus dentro
 de alguns esportes com bola, ao tornar evidente a curva de bolas em rotação
 feitas de diferentes materiais e tamanhos.
+
+### Divisão de tarefas:
+A divisão será feita, assim como descrita na etapa 2:
+       * Testes com as bolas: Gabriel;
+       * Fotos: Giovanna;
+       * Vídeo e edição: Bruno.
+       
+### Fotos do experimento:
+As fotos serão apenas dos utensílios que iremos utilizar e do local a ser realizado o experimento:
+
+
