@@ -63,7 +63,8 @@ A divisão será feita, assim como descrita na etapa 2:
 ### Fotos do experimento:
 As fotos serão apenas dos utensílios que iremos utilizar e do local a ser realizado o experimento:
 
-![421D053B-F203-49A3-BD07-16BA144DB866](https://user-images.githubusercontent.com/54362383/65375278-fb75f800-dc69-11e9-9609-b4dcc731fb04.jpeg)
-![F9338826-1048-4308-8481-0142BCBE6EC3](https://user-images.githubusercontent.com/54362383/65375279-fc0e8e80-dc69-11e9-83bc-4750f3116f7e.jpeg)
-![80421D39-DF0F-482C-A17B-01DCC82CB44D](https://user-images.githubusercontent.com/54362383/65375281-fc0e8e80-dc69-11e9-9cea-ab636bb4b8ef.jpeg)
+<img src="https://user-images.githubusercontent.com/54362383/65375278-fb75f800-dc69-11e9-9609-b4dcc731fb04.jpeg" width="200">
+<img src="https://user-images.githubusercontent.com/54362383/65375279-fc0e8e80-dc69-11e9-83bc-4750f3116f7e.jpeg" width="200">
+<img src="https://user-images.githubusercontent.com/54362383/65375278-fb75f800-dc69-11e9-9609-b4dcc731fb04.jpeg" width="200">
+
 
