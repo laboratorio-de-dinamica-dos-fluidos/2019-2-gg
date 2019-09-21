@@ -62,6 +62,3 @@ A divisão será feita, assim como descrita na etapa 2:
        
 ### Fotos do experimento:
 As fotos serão apenas dos utensílios que iremos utilizar e do local a ser realizado o experimento:
-
-https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/blob/master/457A10CA-1234-4479-B0BD-A085EC0F55C7.jpeg
-
