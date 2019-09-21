@@ -65,6 +65,6 @@ As fotos serão apenas dos utensílios que iremos utilizar e do local a ser real
 
 <img src="https://user-images.githubusercontent.com/54362383/65375278-fb75f800-dc69-11e9-9609-b4dcc731fb04.jpeg" width="200">
 <img src="https://user-images.githubusercontent.com/54362383/65375279-fc0e8e80-dc69-11e9-83bc-4750f3116f7e.jpeg" width="200">
-<img src="https://user-images.githubusercontent.com/54362383/65375278-fb75f800-dc69-11e9-9609-b4dcc731fb04.jpeg" width="200">
+<img src="pingpong.jpg" width="200">
 
 
