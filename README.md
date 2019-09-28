@@ -56,9 +56,9 @@ feitas de diferentes materiais e tamanhos.
 
 ### Divisão de tarefas:
 A divisão será feita, assim como descrita na etapa 2:
-       * Testes com as bolas: Gabriel;
-       * Fotos: Giovanna;
-       * Vídeo e edição: Bruno.
+       * Testes com as bolas: Gabriel;  
+       * Fotos: Giovanna;  
+       * Vídeo e edição: Bruno.  
        
 ## 3. Execução      
 ### Fotos do experimento:
@@ -69,9 +69,9 @@ As fotos serão apenas dos utensílios que iremos utilizar e do local a ser real
 <nobr><img src="pingpong.jpg" width="250" height="320">
 
 ### Dados medidos:
-Campo society: 30x16 m;
-Gol: 2,5x3 m;
-Bola de futebol
- * 70 cm de circunferência
- * 450 g
+Campo society: 30x16 m;  
+Gol: 2,5x3 m;  
+Bola de futebol  
+ * 70 cm de circunferência  
+ * 450 g  
  
