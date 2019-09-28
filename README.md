@@ -72,7 +72,20 @@ As fotos serão apenas dos utensílios que iremos utilizar e do local a ser real
 Campo society: 30x16 m;  
 Gol: 2,5x3 m; 
 
-Bola de futebol
- * 70 cm de circunferência  
- * 450 g  
+Bola de futebol:
+ * 70 cm de circunferência;  
+ * 450 g;  
+ 
+Bola de tênis:
+ * 21,5 cm de diâmetro;  
+ * 54 g;  
+ 
+Bola de ping pong:
+ * 40 mm de diâmetro;  
+ * 2,74 g;  
+ 
+Mesa de ping pong:  
+ * 152 cm de largura;  
+ * 274 cm de comprimento;  
+
  
