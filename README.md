@@ -60,6 +60,7 @@ A divisão será feita, assim como descrita na etapa 2:
        * Fotos: Giovanna;
        * Vídeo e edição: Bruno.
        
+## 3. Execução      
 ### Fotos do experimento:
 As fotos serão apenas dos utensílios que iremos utilizar e do local a ser realizado o experimento:
 
@@ -67,4 +68,10 @@ As fotos serão apenas dos utensílios que iremos utilizar e do local a ser real
 <nobr><img src="https://user-images.githubusercontent.com/54362383/65375279-fc0e8e80-dc69-11e9-83bc-4750f3116f7e.jpeg" width="250" height="320">
 <nobr><img src="pingpong.jpg" width="250" height="320">
 
-
+### Dados medidos:
+Campo society: 30x16 m;
+Gol: 2,5x3 m;
+Bola de futebol
+ * 70 cm de circunferência
+ * 450 g
+ 
