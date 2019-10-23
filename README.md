@@ -34,6 +34,7 @@
    * Etapa de pesquisas e busca de dados: Bruno, Gabriel e Giovanna.
    * Busca dos meios para a execução: Bruno, Gabriel e Giovanna.
    * Experimento:
+   
        * Testes com as bolas: Gabriel;
        * Fotos: Giovanna;
        * Vídeo e edição: Bruno.
