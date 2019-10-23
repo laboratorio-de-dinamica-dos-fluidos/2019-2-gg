@@ -46,7 +46,8 @@
 ### Dados a serem medidos ou calculados:
 Como o intuito do experimento não é uma demonstração numérica do efeito,
 e sim uma visualização de sua existência, os dados que levantaremos,serão 
-as imagens da ocorrência do evento.
+as imagens e vídeos de chutes e arremessos das bolas que serão usadas para executar 
+o experimento.
 
 ### Resultados Esperados:
 O resultado que o experimento visa alcançar,é comprovar 
