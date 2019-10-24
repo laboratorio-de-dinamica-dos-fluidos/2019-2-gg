@@ -46,18 +46,18 @@
 
 ### Dados a serem medidos ou calculados:
 Como o intuito do experimento não é uma demonstração numérica do efeito,
-e sim uma visualização de sua existência, os dados que levantaremos,serão 
-as imagens e vídeos de chutes e arremessos das bolas que serão usadas para executar 
+e sim uma visualização de sua existência, os dados que levantaremos serão 
+as imagens e os vídeos de chutes e arremessos das bolas que serão usadas para executar 
 o experimento.
 
 ### Resultados Esperados:
-O resultado que o experimento visa alcançar,é comprovar 
-por meio de filmagens, a influência do efeito Magnus dentro
+O resultado que o experimento visa alcançar é comprovar 
+por meio de filmagens a influência do efeito Magnus dentro
 de alguns esportes com bola, ao tornar evidente a curva de bolas em rotação
 feitas de diferentes materiais e tamanhos.
 
 ### Divisão de tarefas:
-A divisão será feita, assim como descrita na etapa 2:
+A divisão será feita, assim como descrita na etapa 2:   
        * Testes com as bolas: Gabriel;  
        * Fotos: Giovanna;  
        * Vídeo e edição: Bruno.  
