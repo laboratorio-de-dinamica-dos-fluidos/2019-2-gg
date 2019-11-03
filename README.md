@@ -99,11 +99,11 @@ Uma bola de futebol foi chutada do meio do campo de uma quadra de futebol, assim
 Distancia entre o ponto do chute e o gol(S) ~ metade do campo, logo:
 S = 15 m
 
-| Chute | Rotações | Tempo(s) | Vel. Angular(m/s) | Velocidade da Bola(m/s) |
-|:-----:|:--------:|:--------:|:-----------------:|-------------------------|
-| 1     |     22   |   3      |                   |                         |
-| 2     |     25   |   3      |                   |                         |
-| 3     |     18   |   4      |                   |                         |
+| Chute | Rotações | Tempo(s) |  Vel. Angular(rad/s)| Velocidade linear da suprefície da Bola(m/s)  |
+|:-----:|:--------:|:--------:|:-----------------:|:-------------------------:|
+| 1     |     22   |   3      |      46.05          |           5.06          |
+| 2     |     25   |   3      |      52.13          |           5.81          |
+| 3     |     18   |   4      |      28.25          |           3.15          |
 
 
 #### Teste 2 -> Tênis
