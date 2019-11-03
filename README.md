@@ -1,4 +1,4 @@
-# Efeito Magnus no esporte
+ass# Efeito Magnus no esporte
 ## 1. Início
 ### Integrantes:  
   * Bruno Giuliani Gomes (esh2900) - 17/0030610  
@@ -67,10 +67,12 @@ A divisão será feita, assim como descrita na etapa 2:
 As fotos serão apenas dos utensílios que iremos utilizar e do local a ser realizado o experimento:
 
 <nobr><img src="https://user-images.githubusercontent.com/54362383/65375278-fb75f800-dc69-11e9-9609-b4dcc731fb04.jpeg" width="250" height="320">
-<nobr><img src="https://user-images.githubusercontent.com/54362383/65375279-fc0e8e80-dc69-11e9-83bc-4750f3116f7e.jpeg" width="250" height="320">
+<nobr><img src="https://user-images.githubusercontent.com/54362383/65375279-fc0e8e80-dc69-11e9-83bc-4750f3116f7e.jpeg" width="280" height="320">
 <nobr><img src="pingpong.jpg" width="250" height="320">
 
 ### Dados medidos:
+
+#### Dados Gerais do Experimento(Especificação do Fabricante)
 Campo society: 30x16 m;  
 Gol: 2,5x3 m; 
 
@@ -90,4 +92,32 @@ Mesa de ping pong:
  * 152 cm de largura;  
  * 274 cm de comprimento;  
 
+#### Teste 1 -> Futebol
+
+Uma bola de futebol foi chutada do meio do campo de uma quadra de futebol, assim obtivemos os seguintes resultados medidos:
+
+Distancia entre o ponto do chute e o gol(S) ~ metade do campo, logo:
+S = 15 m
+
+| Chute | Rotações | Tempo(s) | Vel. Angular(m/s) | Velocidade da Bola(m/s) |
+|:-----:|:--------:|:--------:|:-----------------:|-------------------------|
+| 1     |          |          |                   |                         |
+| 2     |          |          |                   |                         |
+| 3     |          |          |                   |                         |
+
+
+#### Teste 2 -> Tênis
+
+A bola de tênis foi arremesada do 7 andar, girando e sem girar, para medirmos a diferença no ponto de queda.
+
+Altura Média de 7 andares h=19,6 m
+
+|  Estado | Tempo de Queda(s) |Distancia da origem ao atingir o chão(cm) |
+|:-------:|:-----------------:|:-------------------------------------:|
+| Parada  |     2,5 ± 0,4     |               90                       |
+| Rodando |     2,9 ± 0,6     |               150                      |
+
+#### Teste 3 -> Ping Pong
+
+Para a Bola de Ping Pong não foram realizados calculos, apenas tentamos visualizar o movimento.
  
