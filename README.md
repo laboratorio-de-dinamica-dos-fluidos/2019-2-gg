@@ -126,18 +126,12 @@ Para a Bola de Ping Pong não foram realizados calculos, apenas tentamos visuali
 <img src="final top 4.jpg">
 
 
-<video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.05.42.mp4" type="video/mp4">
-</video> 
+#### Vídeos dos Experimentos
 https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.05.42.mp4
 
-<video width="320" height="240" controls>
-  <source src="WhatsApp Video 2019-11-23 at 18.06.33.mp4" type="video/mp4">
-</video> 
+https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.06.33.mp4
 
-<video width="320" height="240" controls>
-  <source src="WhatsApp Video 2019-11-23 at 18.09.42.mp4" type="video/mp4">
-</video> 
+https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.09.42.mp4
 
 
 ## 5. Teoria utilizada:
