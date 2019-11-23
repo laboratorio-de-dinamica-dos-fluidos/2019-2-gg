@@ -123,6 +123,8 @@ Altura Média de 7 andares h=19,6 m
 
 Para a Bola de Ping Pong não foram realizados calculos, apenas tentamos visualizar o movimento.
 
+<img src="final top 4.jpg">
+
 
 ## 5. Teoria utilizada:
 * Trata-se de um fenômeno hidrodinâmico descoberto pelo
@@ -182,6 +184,8 @@ Assim a equação ficará:
 <a href="https://www.codecogs.com/eqnedit.php?latex=\vec{F}_m&space;=&space;\frac{1}{2}&space;C_m&space;\rho&space;Ar&space;\vec{w}&space;\times&space;\vec{V}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{F}_m&space;=&space;\frac{1}{2}&space;C_m&space;\rho&space;Ar&space;\vec{w}&space;\times&space;\vec{V}" title="\vec{F}_m = \frac{1}{2} C_m \rho Ar \vec{w} \times \vec{V}" /></a>
 
 Para o caso com bolas de futebol, o ângulo será ζ=π/2 para indicar Cm aproximadamente igual a 1.
+
+ <img src="antes do top 6.jpg">
 
 ## 6. Conclusão com base na teoria:
 
