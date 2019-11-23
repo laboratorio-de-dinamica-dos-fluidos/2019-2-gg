@@ -72,7 +72,8 @@ As fotos serão apenas dos utensílios que iremos utilizar e do local a ser real
 
 ### Dados medidos:
 
-#### Dados Gerais do Experimento(Especificação do Fabricante)
+#### Dados Gerais do Experimento (Especificação do Fabricante):
+
 Campo society: 30x16 m;  
 Gol: 2,5x3 m; 
 
@@ -126,7 +127,7 @@ Para a Bola de Ping Pong não foram realizados cálculos, apenas tentamos visual
 <img src="final top 4.jpg">
 
 
-#### Vídeos dos Experimentos
+#### Vídeos dos Experimentos:  
 https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.05.42.mp4
 
 https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.06.33.mp4
@@ -134,7 +135,8 @@ https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-mag
 https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.09.42.mp4
 
 
-## 5. Teoria utilizada:
+## 5. Teoria utilizada
+
 * Trata-se de um fenômeno hidrodinâmico descoberto pelo
 químico e físico alemão Heinrich Gustav Magnus pelo qual a trajetória em um fluido (líquido
 ou gás) de um objeto é alterada devido à sua rotação.
@@ -143,7 +145,9 @@ perpendicular a velocidade e ao eixo de rotação é chamada de força Magnus.
 * Uma bola de futebol em movimento no ar está sujeita a
 forças aerodinâmicas causadas pela pressão e viscosidade do meio. A força resultante pode ser decomposta
 em duas componentes: o arrasto, antiparalelo à velocidade, e a sustentação, perpendicular à velocidade.
+
 #### A força de arrasto é definida pela equação:
+
    <a href="https://www.codecogs.com/eqnedit.php?latex=F_{a}&space;=&space;\frac{1}{2}&space;C_a&space;\rho&space;AV^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_{a}&space;=&space;\frac{1}{2}&space;C_a&space;\rho&space;AV^2" title="F_{a} = \frac{1}{2} C_a \rho AV^2" /></a>
   * ρ é a densidade do ar;
   * A é a área da seção transversal da bola;
@@ -158,6 +162,7 @@ coeficiente de arrasto é dado pela fórmula de Stokes:
   <a href="https://www.codecogs.com/eqnedit.php?latex=C_a=&space;\frac{24}{R_e}." target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_a=&space;\frac{24}{R_e}." title="C_a= \frac{24}{R_e}." /></a>
   
 #### Crise do arrasto e a camada limite
+
  A crise do arrasto está diretamente associada ao comportamento da “camada limite” de ar que se forma
 em torno da bola. A camada limite tem origem na
 aderência das moléculas do ar á superfície da bola. A
@@ -177,6 +182,7 @@ limite e, consequentemente, diminui a resistência do
 ar a altas velocidades.
 
 #### O efeito Magnus 
+
 Quando a bola de futebol gira em torno de seu centro de sustentação
 perpendicular à velocidade e ao eixo de rotação é chamada de força Magnus.   
 Dada pela fórmula :
@@ -201,6 +207,7 @@ De acordo com os estudos teóricos e o experimento realizado na prática, o grup
 Contudo, conforme os vídeos apresentados, é notável a visualização do Efeito sobre as condições estabelecidas. Conclui-se que conseguimos demonstrar o Efeito Magnus com três tipos de bolas diferentes. 
 
 ### Referências
+
 * https://aprender.ead.unb.br/pluginfile.php/166074/mod_resource/content/10/dinflu.pdf  
 * http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-11172004000400003  
 * http://eurekabrasil.com/ciencia-por-tras-do-gol-de-cr7/  
