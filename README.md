@@ -199,3 +199,12 @@ Para o caso com bolas de futebol, o ângulo será ζ=π/2 para indicar Cm aproxi
 
 De acordo com os estudos teóricos e o experimento realizado na prática, o grupo pôde sintetizar que o Efeito Magnus foi observado parcialmente tendo em vista que ocorreram erros experimentais, tais como, superfície material da bola, medição do tempo e linearidade do campo. Além disso, o fator que impossibilitou a realização total do efeito foram as condições climáticas nos dias das gravações da prática.   
 Contudo, conforme os vídeos apresentados, é notável a visualização do Efeito sobre as condições estabelecidas. Conclui-se que conseguimos demonstrar o Efeito Magnus com três tipos de bolas diferentes. 
+
+### Referências
+* file:///C:/Users/giova/Downloads/ARLETE-MOREIRA-DOS-SANTOS.pdf  
+* file:///C:/Users/giova/Downloads/a03v26n4.pdf  
+* https://aprender.ead.unb.br/pluginfile.php/166074/mod_resource/content/10/dinflu.pdf  
+* http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-11172004000400003  
+* http://eurekabrasil.com/ciencia-por-tras-do-gol-de-cr7/  
+
+
