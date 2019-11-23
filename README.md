@@ -1,4 +1,4 @@
-ass# Efeito Magnus no esporte
+# Efeito Magnus:
 ## 1. Início
 ### Integrantes:  
   * Bruno Giuliani Gomes (esh2900) - 17/0030610  
@@ -91,6 +91,8 @@ Bola de ping pong:
 Mesa de ping pong:  
  * 152 cm de largura;  
  * 274 cm de comprimento;  
+ 
+## 4. Análise e conclusão:
 
 #### Teste 1 -> Futebol
 
@@ -120,4 +122,57 @@ Altura Média de 7 andares h=19,6 m
 #### Teste 3 -> Ping Pong
 
 Para a Bola de Ping Pong não foram realizados calculos, apenas tentamos visualizar o movimento.
- 
+
+### Analisando a Teoria :
+* Trata-se de um fenômeno hidrodinâmico descoberto pelo
+químico e físico alemão Heinrich Gustav Magnus pelo qual a trajetória em um fluido (líquido
+ou gás) de um objeto é alterada devido à sua rotação.
+* Quando a bola de futebol gira em torno de seu centro de sustentação
+perpendicular a velocidade e ao eixo de rotação é chamada de força Magnus.
+* Uma bola de futebol em movimento no ar está sujeita a
+forças aerodinâmicas causadas pela pressão e viscosidade do meio. A força resultante pode ser decomposta
+em duas componentes: o arrasto, antiparalelo à velocidade, e a sustentação, perpendicular à velocidade.
+#### A força de arrasto é definida pela equação:
+Fa=1/2 CaρAV^2
+  * Onde ρ é a densidade do ar;
+  * Onde A é a área da seção transversal da bola;
+  * Onde Ca é o coeficiente de arrasto , sendo uma grandeza admensional;
+* Para uma bola com velocidade muito menor que a do som, a única quantidade deste tipo é o número de Reynolds;
+ Re=ρDV/η
+   * Onde D é o diâmetro da bola;
+   * Onde η é a viscosidade do ar;
+* O número de Reynolds mede a razão entre as forças inerciais que atuam na bola; 
+* Para pequenos numeros de Reynolds, Re<<1, o
+coeficiente de arrasto é dado pela fórmula de Stokes;
+  Ca=24/Re
+  
+#### Crise do arrasto e a camada limite
+ A crise do arrasto está diretamente associada ao comportamento da “camada limite” de ar que se forma
+em torno da bola. A camada limite tem origem na
+aderência das moléculas do ar á superfície da bola. A
+viscosidade transmite parcialmente esta aderência às
+moléculas mais distantes, formando uma região que
+tende a mover-se com a bola. Esta região é a camada
+limite, ou camada de Prandtl.
+A crise do arrasto ocorre quando a camada limite torna-se turbulenta. A turbulência permite que a
+camada resista melhor à tendência de separação,
+e com isso o ponto de descolamento move-se mais
+para trás da esfera, diminuindo a área da esteira.
+A textura da superfície também afeta o escoamento
+da camada limite. Uma esfera rugosa irá sofrer a crise
+em um número de Reynolds inferior ao de uma esfera
+lisa. A rugosidade precipita a turbulência na camada
+limite e, consequentemente, diminui a resistência do
+ar a altas velocidades.
+
+#### O efeito magnus 
+Quando a bola de futebol gira em torno de seu centro de sustentação
+perpendicular a velocidade e ao eixo de rotação é chamada de força Magnus.
+Dada pela fórmula :
+Fm=1/2 CsρAV^2  (w x V)/(|w x V|)
+O coeficiente de sustentação Cs desempenha um papel semelhante ao coeficiente de arrasto.
+O coeficiente de Magnus é definido por Cm=Cs/(S senζ).
+A equação ficando:
+Fm=1/2 CmρArwxV
+Medidas da força de Magnus em bolas de futebol ζ=π/2 para indicar Cm aproximadamente igual a 1.
+
