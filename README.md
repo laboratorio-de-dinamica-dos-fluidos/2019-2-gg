@@ -144,6 +144,8 @@ Para a Bola de Ping Pong não foram realizados calculos, apenas tentamos visuali
 #### Crise do arrasto e a camada limite
  A crise do arrasto está diretamente relacionada ao comportamento da “camada limite” de ar que se forma em torno da bola. A camada limite se origina na aderência das moléculas do ar à superfície da bola. A viscosidade transmite parcialmente esta aderência às moléculas mais distantes, formando uma região que tende a mover-se com a bola. Esta região é a camada limite, ou camada de Prandtl. A crise do arrasto ocorre quando a camada limite torna-se turbulenta. A turbulência permite que a camada resista melhor à tendência de separação, e com isso o ponto de descolamento move-se mais para trás da esfera, diminuindo a área da esteira. A textura da superfície também afeta o escoamento da camada limite. Uma esfera rugosa irá sofrer a crise em um número de Reynolds inferior ao de uma esfera lisa. A rugosidade precipita a turbulência na camada limite e, consequentemente, diminui a resistência do ar a altas velocidades.
  
+ ##### Tabela de características da bola em vários esportes 
+ 
  | Eporte | Vel(m/s) | Diam(cm) | Massa(g) | Re/10^5 |
  | :----: | :------: | :------: | :------: | :-----: |
  | Futebol | 30 | 22,2 | 454 | 4,4 |
