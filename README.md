@@ -123,7 +123,8 @@ Altura Média de 7 andares h=19,6 m
 
 Para a Bola de Ping Pong não foram realizados calculos, apenas tentamos visualizar o movimento.
 
-### Analisando a Teoria :
+
+## 5. Teoria utilizada:
 * Trata-se de um fenômeno hidrodinâmico descoberto pelo
 químico e físico alemão Heinrich Gustav Magnus pelo qual a trajetória em um fluido (líquido
 ou gás) de um objeto é alterada devido à sua rotação.
@@ -176,6 +177,7 @@ Assim a equação ficará:
 Fm=1/2 CmρArwxV    
 Para o caso com bolas de futebol, o ângulo será ζ=π/2 para indicar Cm aproximadamente igual a 1.
 
+## 6. Conclusão com base na teoria:
 
-
-
+De acordo com os estudos teóricos e o experimento realizado na prática, o grupo pôde sintetizar que o Efeito Magnus foi observado parcialmente tendo em vista que ocorreram erros experimentais, tais como, superfície material da bola, medição do tempo e linearidade do campo. Além disso, o fator que impossibilitou a realização total do efeito foram as condições climáticas nos dias das gravações da prática.   
+Contudo, conforme os vídeos apresentados, é notável a visualização do Efeito sobre as condições estabelecidas. Conclui-se que conseguimos demonstrar o Efeito Magnus com três tipos de bolas diferentes. 
