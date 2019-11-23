@@ -133,18 +133,18 @@ perpendicular a velocidade e ao eixo de rotação é chamada de força Magnus.
 forças aerodinâmicas causadas pela pressão e viscosidade do meio. A força resultante pode ser decomposta
 em duas componentes: o arrasto, antiparalelo à velocidade, e a sustentação, perpendicular à velocidade.
 #### A força de arrasto é definida pela equação:
-Fa=1/2 CaρAV^2
-  * Onde ρ é a densidade do ar;
-  * Onde A é a área da seção transversal da bola;
-  * Onde Ca é o coeficiente de arrasto , sendo uma grandeza admensional;
+                   Fa=1/2 CaρAV^2
+  * ρ é a densidade do ar;
+  * A é a área da seção transversal da bola;
+  * Ca é o coeficiente de arrasto, sendo uma grandeza admensional;
 * Para uma bola com velocidade muito menor que a do som, a única quantidade deste tipo é o número de Reynolds;
  Re=ρDV/η
-   * Onde D é o diâmetro da bola;
-   * Onde η é a viscosidade do ar;
+   * D é o diâmetro da bola;
+   * η é a viscosidade do ar;
 * O número de Reynolds mede a razão entre as forças inerciais que atuam na bola; 
-* Para pequenos numeros de Reynolds, Re<<1, o
-coeficiente de arrasto é dado pela fórmula de Stokes;
-  Ca=24/Re
+* Para pequenos números de Reynolds, Re<<1, o
+coeficiente de arrasto é dado pela fórmula de Stokes:
+  Ca=24/Re.
   
 #### Crise do arrasto e a camada limite
  A crise do arrasto está diretamente associada ao comportamento da “camada limite” de ar que se forma
@@ -167,12 +167,15 @@ ar a altas velocidades.
 
 #### O efeito magnus 
 Quando a bola de futebol gira em torno de seu centro de sustentação
-perpendicular a velocidade e ao eixo de rotação é chamada de força Magnus.
+perpendicular à velocidade e ao eixo de rotação é chamada de força Magnus.   
 Dada pela fórmula :
-Fm=1/2 CsρAV^2  (w x V)/(|w x V|)
-O coeficiente de sustentação Cs desempenha um papel semelhante ao coeficiente de arrasto.
-O coeficiente de Magnus é definido por Cm=Cs/(S senζ).
-A equação ficando:
-Fm=1/2 CmρArwxV
-Medidas da força de Magnus em bolas de futebol ζ=π/2 para indicar Cm aproximadamente igual a 1.
+Fm=1/2 CsρAV^2  (w x V)/(|w x V|)   
+O coeficiente de sustentação Cs desempenha um papel semelhante ao coeficiente de arrasto.   
+O coeficiente de Magnus é definido por Cm=Cs/(S sen(ζ)).   
+Assim a equação ficará:
+Fm=1/2 CmρArwxV    
+Para o caso com bolas de futebol, o ângulo será ζ=π/2 para indicar Cm aproximadamente igual a 1.
+
+
+
 
