@@ -201,10 +201,12 @@ De acordo com os estudos teóricos e o experimento realizado na prática, o grup
 Contudo, conforme os vídeos apresentados, é notável a visualização do Efeito sobre as condições estabelecidas. Conclui-se que conseguimos demonstrar o Efeito Magnus com três tipos de bolas diferentes. 
 
 ### Referências
-* file:///C:/Users/giova/Downloads/ARLETE-MOREIRA-DOS-SANTOS.pdf  
-* file:///C:/Users/giova/Downloads/a03v26n4.pdf  
 * https://aprender.ead.unb.br/pluginfile.php/166074/mod_resource/content/10/dinflu.pdf  
 * http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-11172004000400003  
 * http://eurekabrasil.com/ciencia-por-tras-do-gol-de-cr7/  
+* Arlete Moreira dos Santos|"Física nos jogos de futebol"-Universidade Estadual de Maringá - Centro de Ciências Exatas - Departamento de Física - 2012|
+* Revista Brasileira de Ensino de Física, v. 26, n. 4, p. 297 - 306, (2004)|"A aerodinâmica da bola de futebol" - C.E. Aguiar e G. Rubini|
+
+
 
 
