@@ -35,9 +35,10 @@
    * Busca dos meios para a execução: Bruno, Gabriel e Giovanna.
    * Experimento:
    
-       * Testes com as bolas: Gabriel;
-       * Fotos: Giovanna;
-       * Vídeo e edição: Bruno.
+       | Testes com as bolas | Fotos | Vídeos e edição |
+       | :-----------------: | :---: | :-------------: |
+       | Gabriel | Giovanna | Bruno |
+       
        
 ### Cronograma estimado:
    * Passo 1: 2 semanas: 09/09 a 20/09;
