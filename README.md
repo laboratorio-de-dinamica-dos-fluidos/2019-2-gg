@@ -205,8 +205,4 @@ Contudo, conforme os vídeos apresentados, é notável a visualização do Efeit
 * http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-11172004000400003  
 * http://eurekabrasil.com/ciencia-por-tras-do-gol-de-cr7/  
 * Arlete Moreira dos Santos|"Física nos jogos de futebol"-Universidade Estadual de Maringá - Centro de Ciências Exatas - Departamento de Física - 2012|
-* Revista Brasileira de Ensino de Física, v. 26, n. 4, p. 297 - 306, (2004)|"A aerodinâmica da bola de futebol" - C.E. Aguiar e G. Rubini|
-
-
-
-
+* Revista Brasileira de Ensino de Física, v. 26, n. 4, p. 297 - 306, (2004)|"A aerodinâmica da bola de futebol" - C.E. Aguiar e G. Rubini|    
