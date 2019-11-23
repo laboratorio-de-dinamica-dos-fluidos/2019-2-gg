@@ -126,6 +126,19 @@ Para a Bola de Ping Pong não foram realizados calculos, apenas tentamos visuali
 <img src="final top 4.jpg">
 
 
+<video width="320" height="240" controls>
+  <source src="WhatsApp Video 2019-11-23 at 18.05.42.mp4" type="video/mp4">
+</video> 
+
+<video width="320" height="240" controls>
+  <source src="WhatsApp Video 2019-11-23 at 18.06.33.mp4" type="video/mp4">
+</video> 
+
+<video width="320" height="240" controls>
+  <source src="WhatsApp Video 2019-11-23 at 18.09.42.mp4" type="video/mp4">
+</video> 
+
+
 ## 5. Teoria utilizada:
 * Trata-se de um fenômeno hidrodinâmico descoberto pelo
 químico e físico alemão Heinrich Gustav Magnus pelo qual a trajetória em um fluido (líquido
