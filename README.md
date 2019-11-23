@@ -98,7 +98,7 @@ Mesa de ping pong:
 
 Uma bola de futebol foi chutada do meio do campo de uma quadra de futebol, assim obtivemos os seguintes resultados medidos:
 
-Distancia entre o ponto do chute e o gol(S) ~ metade do campo, logo:
+Distância entre o ponto do chute e o gol (S) ~ metade do campo, logo:
 S = 15 m
 
 | Chute | Rotações | Tempo(s) |  Vel. Angular(rad/s)| Velocidade linear da suprefície da Bola(m/s)  |
@@ -112,7 +112,7 @@ S = 15 m
 
 A bola de tênis foi arremesada do 7 andar, girando e sem girar, para medirmos a diferença no ponto de queda.
 
-Altura Média de 7 andares h=19,6 m
+Altura média de 7 andares, h=19,6 m
 
 |  Estado | Tempo de Queda(s) |Distancia da origem ao atingir o chão(cm) |
 |:-------:|:-----------------:|:-------------------------------------:|
@@ -121,7 +121,7 @@ Altura Média de 7 andares h=19,6 m
 
 #### Teste 3 -> Ping Pong
 
-Para a Bola de Ping Pong não foram realizados calculos, apenas tentamos visualizar o movimento.
+Para a Bola de Ping Pong não foram realizados cálculos, apenas tentamos visualizar o movimento.
 
 <img src="final top 4.jpg">
 
