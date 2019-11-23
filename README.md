@@ -127,11 +127,6 @@ Para a Bola de Ping Pong não foram realizados cálculos, apenas tentamos visual
 
 
 #### Vídeos dos Experimentos:  
-https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.05.42.mp4
-
-https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.06.33.mp4
-
-https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.09.42.mp4
  
 https://www.youtube.com/watch?v=N0Bj7yqRiR0&feature=youtu.be
 
