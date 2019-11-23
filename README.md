@@ -133,7 +133,7 @@ perpendicular a velocidade e ao eixo de rotação é chamada de força Magnus.
 forças aerodinâmicas causadas pela pressão e viscosidade do meio. A força resultante pode ser decomposta
 em duas componentes: o arrasto, antiparalelo à velocidade, e a sustentação, perpendicular à velocidade.
 #### A força de arrasto é definida pela equação:
-                   Fa=1/2 CaρAV^2
+   Fa=1/2 CaρAV^2
   * ρ é a densidade do ar;
   * A é a área da seção transversal da bola;
   * Ca é o coeficiente de arrasto, sendo uma grandeza admensional;
@@ -165,7 +165,7 @@ lisa. A rugosidade precipita a turbulência na camada
 limite e, consequentemente, diminui a resistência do
 ar a altas velocidades.
 
-#### O efeito magnus 
+#### O efeito Magnus 
 Quando a bola de futebol gira em torno de seu centro de sustentação
 perpendicular à velocidade e ao eixo de rotação é chamada de força Magnus.   
 Dada pela fórmula :
