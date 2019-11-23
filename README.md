@@ -125,40 +125,62 @@ Para a Bola de Ping Pong não foram realizados calculos, apenas tentamos visuali
 
 
 ## 5. Teoria utilizada:
-* Refere-se a um fenômeno hidrodinâmico descoberto pelo químico e físico alemão Heinrich Gustav Magnus no qual a trajetória em um fluido (líquido ou gás) de um objeto é alterada devido à sua rotação.
-* Quando uma bola de futebol gira em torno de seu centro de sustentação perpendicular à velocidade e ao eixo de rotação é chamada de força Magnus.
-* Essa mesma bola em movimento no ar está sujeita a forças aerodinâmicas causadas pela pressão e pela viscosidade do meio. A força resultante pode ser decomposta em duas componentes: o arrasto, antiparalelo à velocidade, e a sustentação, perpendicular à velocidade.
-
+* Trata-se de um fenômeno hidrodinâmico descoberto pelo
+químico e físico alemão Heinrich Gustav Magnus pelo qual a trajetória em um fluido (líquido
+ou gás) de um objeto é alterada devido à sua rotação.
+* Quando a bola de futebol gira em torno de seu centro de sustentação
+perpendicular a velocidade e ao eixo de rotação é chamada de força Magnus.
+* Uma bola de futebol em movimento no ar está sujeita a
+forças aerodinâmicas causadas pela pressão e viscosidade do meio. A força resultante pode ser decomposta
+em duas componentes: o arrasto, antiparalelo à velocidade, e a sustentação, perpendicular à velocidade.
 #### A força de arrasto é definida pela equação:
-   Fa=1/2 CaρAV^2
+   <a href="https://www.codecogs.com/eqnedit.php?latex=F_{a}&space;=&space;\frac{1}{2}&space;C_a&space;\rho&space;AV^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_{a}&space;=&space;\frac{1}{2}&space;C_a&space;\rho&space;AV^2" title="F_{a} = \frac{1}{2} C_a \rho AV^2" /></a>
   * ρ é a densidade do ar;
   * A é a área da seção transversal da bola;
-  * Ca é o coeficiente de arrasto (admensional);
-* Para uma bola com velocidade muito menor do que a do som, a única quantidade é o número de Reynolds;
- Re=ρDV/η
+  * Ca é o coeficiente de arrasto, sendo uma grandeza admensional;
+* Para uma bola com velocidade muito menor que a do som, a única quantidade deste tipo é o número de Reynolds;
+<a href="https://www.codecogs.com/eqnedit.php?latex=R_e=&space;\frac{&space;\rho&space;DV}{\eta}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?R_e=&space;\frac{&space;\rho&space;DV}{\eta}" title="R_e= \frac{ \rho DV}{\eta}" /></a>
    * D é o diâmetro da bola;
    * η é a viscosidade do ar;
 * O número de Reynolds mede a razão entre as forças inerciais que atuam na bola; 
-* Para pequenos números de Reynolds, Re<<1, o coeficiente de arrasto é dado pela fórmula de Stokes: Ca=24/Re.
+* Para pequenos números de Reynolds, Re<<1, o
+coeficiente de arrasto é dado pela fórmula de Stokes:
+  <a href="https://www.codecogs.com/eqnedit.php?latex=C_a=&space;\frac{24}{R_e}." target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_a=&space;\frac{24}{R_e}." title="C_a= \frac{24}{R_e}." /></a>
   
 #### Crise do arrasto e a camada limite
- A crise do arrasto está diretamente relacionada ao comportamento da “camada limite” de ar que se forma em torno da bola. A camada limite se origina na aderência das moléculas do ar à superfície da bola. A viscosidade transmite parcialmente esta aderência às moléculas mais distantes, formando uma região que tende a mover-se com a bola. Esta região é a camada limite, ou camada de Prandtl. A crise do arrasto ocorre quando a camada limite torna-se turbulenta. A turbulência permite que a camada resista melhor à tendência de separação, e com isso o ponto de descolamento move-se mais para trás da esfera, diminuindo a área da esteira. A textura da superfície também afeta o escoamento da camada limite. Uma esfera rugosa irá sofrer a crise em um número de Reynolds inferior ao de uma esfera lisa. A rugosidade precipita a turbulência na camada limite e, consequentemente, diminui a resistência do ar a altas velocidades.
- 
- ##### Tabela de características da bola em vários esportes 
- 
- | Eporte | Vel(m/s) | Diam(cm) | Massa(g) | Re/10^5 |
- | :----: | :------: | :------: | :------: | :-----: |
- | Futebol | 30 | 22,2 | 454 | 4,4 |
- | Tênis | 45 | 6,5 | 58 | 2,0 |
- | Tênis de mesa | 5 | 3,8 | 25 | 0,13 |
+ A crise do arrasto está diretamente associada ao comportamento da “camada limite” de ar que se forma
+em torno da bola. A camada limite tem origem na
+aderência das moléculas do ar á superfície da bola. A
+viscosidade transmite parcialmente esta aderência às
+moléculas mais distantes, formando uma região que
+tende a mover-se com a bola. Esta região é a camada
+limite, ou camada de Prandtl.
+A crise do arrasto ocorre quando a camada limite torna-se turbulenta. A turbulência permite que a
+camada resista melhor à tendência de separação,
+e com isso o ponto de descolamento move-se mais
+para trás da esfera, diminuindo a área da esteira.
+A textura da superfície também afeta o escoamento
+da camada limite. Uma esfera rugosa irá sofrer a crise
+em um número de Reynolds inferior ao de uma esfera
+lisa. A rugosidade precipita a turbulência na camada
+limite e, consequentemente, diminui a resistência do
+ar a altas velocidades.
 
 #### O efeito Magnus 
-Quando uma bola de futebol gira em torno de seu centro de sustentação perpendicular à velocidade e ao eixo de rotação é chamada de força Magnus. Dada pela fórmula:
-Fm=1/2 CsρAV^2  (w x V)/(|w x V|)   
+Quando a bola de futebol gira em torno de seu centro de sustentação
+perpendicular à velocidade e ao eixo de rotação é chamada de força Magnus.   
+Dada pela fórmula :
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{F_m}&space;=&space;\frac{1}{2}&space;C_s&space;\rho&space;AV^2&space;\frac{(\vec{w}&space;\times&space;\vec{V})}{(|\vec{w}&space;\times&space;\vec{V}|)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{F_m}&space;=&space;\frac{1}{2}&space;C_s&space;\rho&space;AV^2&space;\frac{(\vec{w}&space;\times&space;\vec{V})}{(|\vec{w}&space;\times&space;\vec{V}|)}" title="\vec{F_m} = \frac{1}{2} C_s \rho AV^2 \frac{(\vec{w} \times \vec{V})}{(|\vec{w} \times \vec{V}|)}" /></a>
+
 O coeficiente de sustentação Cs desempenha um papel semelhante ao coeficiente de arrasto.   
-O coeficiente de Magnus é definido por Cm=Cs/(S sen(ζ)).   
+O coeficiente de Magnus é definido por: 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=C_m=\frac{C_s}{S&space;sen(\zeta)}." target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_m=\frac{C_s}{S&space;sen(\zeta)}." title="C_m=\frac{C_s}{S sen(\zeta)}." /></a>
+
 Assim a equação ficará:
-Fm=1/2 CmρAr(wxV)    
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\vec{F}_m&space;=&space;\frac{1}{2}&space;C_m&space;\rho&space;Ar&space;\vec{w}&space;\times&space;\vec{V}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\vec{F}_m&space;=&space;\frac{1}{2}&space;C_m&space;\rho&space;Ar&space;\vec{w}&space;\times&space;\vec{V}" title="\vec{F}_m = \frac{1}{2} C_m \rho Ar \vec{w} \times \vec{V}" /></a>
+
 Para o caso com bolas de futebol, o ângulo será ζ=π/2 para indicar Cm aproximadamente igual a 1.
 
 ## 6. Conclusão com base na teoria:
