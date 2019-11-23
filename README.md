@@ -125,8 +125,6 @@ Altura média de 7 andares, h=19,6 m
 
 Para a Bola de Ping Pong não foram realizados cálculos, apenas tentamos visualizar o movimento.
 
-<img src="final top 4.jpg">
-
 
 #### Vídeos dos Experimentos:  
 https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.05.42.mp4
@@ -181,6 +179,8 @@ em um número de Reynolds inferior ao de uma esfera
 lisa. A rugosidade precipita a turbulência na camada
 limite e, consequentemente, diminui a resistência do
 ar a altas velocidades.
+
+<img src="final top 4.jpg">
 
 #### O efeito Magnus 
 
