@@ -132,7 +132,12 @@ https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-mag
 https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.06.33.mp4
 
 https://raw.githubusercontent.com/laboratorio-de-dinamica-dos-fluidos/2019.2-magnusport/master/WhatsApp%20Video%202019-11-23%20at%2018.09.42.mp4
+ 
+https://www.youtube.com/watch?v=N0Bj7yqRiR0&feature=youtu.be
 
+https://www.youtube.com/watch?v=YMj7vLnP2Xo&feature=youtu.be
+
+https://www.youtube.com/watch?v=tZouo-QaRBc&feature=youtu.be
 
 ## 5. Teoria utilizada
 
